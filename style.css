@@ -379,9 +379,7 @@ section .title::after{
 }
 
 /* teams section styling */
-.teams .title::after{
-    content: "Üyeler";
-}
+
 .teams .carousel .card{
     background: #222;
     border-radius: 6px;
