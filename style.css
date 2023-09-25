@@ -215,7 +215,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "ben kimim";
+    content: "Ben Kimim";
 }
 .about .about-content .left{
     width: 45%;
@@ -269,7 +269,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "neler yapıyorum";
+    content: "Neler Yapıyorum";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -306,7 +306,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "neler biliyorum";
+    content: "Neler Biliyorum";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -380,7 +380,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "üyeler";
+    content: "Üyeler";
 }
 .teams .carousel .card{
     background: #222;
@@ -443,7 +443,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "Bana yaz";
+    content: "Bana Yaz";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
